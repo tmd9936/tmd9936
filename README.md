@@ -1,4 +1,7 @@
-안녕하세요!
+### Stack
+![C](http://img.shields.io/badge/-C-gray?style=flat-square&logo=c)
+![C++](http://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
+
 
 <!--
 **tmd9936/tmd9936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
