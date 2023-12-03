@@ -1,3 +1,4 @@
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmd9936&count_bg=%2316218E&title_bg=%23168CAA&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -13,7 +14,13 @@
 ![VisualStudio](http://img.shields.io/badge/-VisualStudio-indigo?style=flat-square&logo=visualstudio)
 ![HSLS](http://img.shields.io/badge/-HLSL-darkcyan?style=flat-square)
 
+<br>
+
+<b>Algorithm</b> <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmd9936)](https://solved.ac/tmd9936/)
 </div>
+
 
 <!--
 **tmd9936/tmd9936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
