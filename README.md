@@ -1,12 +1,13 @@
 <div align=center>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmd9936&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+	
 <b>Stacks</b>
 
 ![C](http://img.shields.io/badge/-C-gray?style=flat-square&logo=c)
 ![C++](http://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![Python](http://img.shields.io/badge/-Python-gainsboro?style=flat-square&logo=python)
-![Unreal](http://img.shields.io/badge/-Unreal-black?style=flat-square&logo=unrealengine)
-
+![Unreal](http://img.shields.io/badge/-Unreal-black?style=flat-square&logo=unrealengine) <br>
 ![DirectX](http://img.shields.io/badge/-DirectX-dodgerblue?style=flat-square)
 ![WIN API](http://img.shields.io/badge/-WIN%20API-Royalblue?style=flat-square&logo=windows)
 ![VisualStudio](http://img.shields.io/badge/-VisualStudio-indigo?style=flat-square&logo=visualstudio)
