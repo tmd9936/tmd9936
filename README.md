@@ -16,11 +16,12 @@
 
 <br>
 
+<!--
 <b>Algorithm</b> <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmd9936)](https://solved.ac/tmd9936/)
 </div>
-
+-->
 
 <!--
 **tmd9936/tmd9936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
